@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="award_type" table="x_snc_jab_test_e_0_recognition" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>award_type</element>
+            <name>x_snc_jab_test_e_0_recognition</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-03-31 17:31:13</sys_created_on>
+            <sys_id>311a4e0e872e0510e80b40c5cebb35a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>award_type</sys_name>
+            <sys_package display_value="Employee Recognition" source="x_snc_jab_test_e_0">88a6db7987aac110e80b40c5cebb35b3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee Recognition">88a6db7987aac110e80b40c5cebb35b3</sys_scope>
+            <sys_update_name>sys_choice_x_snc_jab_test_e_0_recognition_award_type</sys_update_name>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-03-31 17:31:13</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>award_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Monetary</label>
+            <language>en</language>
+            <name>x_snc_jab_test_e_0_recognition</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-03-31 17:31:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd1a4e0e872e0510e80b40c5cebb35a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-03-31 17:31:13</sys_updated_on>
+            <value>monetary</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>award_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Certificate</label>
+            <language>en</language>
+            <name>x_snc_jab_test_e_0_recognition</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-03-31 17:31:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4e1a4e0e872e0510e80b40c5cebb35bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-03-31 17:31:13</sys_updated_on>
+            <value>certificate</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

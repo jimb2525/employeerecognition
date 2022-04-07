@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="JAB Test Employee Recognition Workspace Config">09c9460e6c2e0510424c8a3cead66d95</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Attachment">3478e8db0f0210107d20409dc4767e89</macroponent>
+        <macroponent_config>{&#13;
+    "table": "@data.gform.nowRecordFormBlob.table",&#13;
+    "sysId": "@data.gform.nowRecordFormBlob.sysId"&#13;
+}</macroponent_config>
+        <name>Attachment</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record">558adc930f0210107d20409dc4767e84</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="Attachment">747828db0f0210107d20409dc4767eb5</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2022-03-31 17:29:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4dc9460ecf2e0510bca9896352236898</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attachment</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Employee Recognition" source="x_snc_jab_test_e_0">88a6db7987aac110e80b40c5cebb35b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Recognition">88a6db7987aac110e80b40c5cebb35b3</sys_scope>
+        <sys_update_name>sys_ux_screen_4dc9460ecf2e0510bca9896352236898</sys_update_name>
+        <sys_updated_by>james.belote</sys_updated_by>
+        <sys_updated_on>2022-03-31 17:29:48</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=4dc9460ecf2e0510bca9896352236898"/>
+</record_update>

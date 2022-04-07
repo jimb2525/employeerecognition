@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>KB</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2022-03-31 17:29:47</sys_created_on>
+        <sys_id>49c9460ebc2e0510b878edfce1be3997</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KB</sys_name>
+        <sys_package display_value="Employee Recognition" source="x_snc_jab_test_e_0">88a6db7987aac110e80b40c5cebb35b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Recognition">88a6db7987aac110e80b40c5cebb35b3</sys_scope>
+        <sys_update_name>sys_ux_screen_type_49c9460ebc2e0510b878edfce1be3997</sys_update_name>
+        <sys_updated_by>james.belote</sys_updated_by>
+        <sys_updated_on>2022-03-31 17:29:47</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=49c9460ebc2e0510b878edfce1be3997"/>
+</record_update>

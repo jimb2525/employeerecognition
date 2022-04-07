@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_snc_jab_test_e_0_recognition_task</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2022-03-31 17:25:45</sys_created_on>
+        <sys_id>35d84a8a872e0510e80b40c5cebb3523</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_jab_test_e_0_recognition_task</sys_name>
+        <sys_package display_value="Employee Recognition" source="x_snc_jab_test_e_0">88a6db7987aac110e80b40c5cebb35b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Recognition">88a6db7987aac110e80b40c5cebb35b3</sys_scope>
+        <sys_update_name>ua_table_licensing_config_35d84a8a872e0510e80b40c5cebb3523</sys_update_name>
+        <sys_updated_by>james.belote</sys_updated_by>
+        <sys_updated_on>2022-03-31 17:25:45</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

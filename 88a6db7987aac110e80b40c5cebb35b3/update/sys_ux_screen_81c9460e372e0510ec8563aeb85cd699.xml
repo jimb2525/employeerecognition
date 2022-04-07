@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="JAB Test Employee Recognition Workspace Config">09c9460e6c2e0510424c8a3cead66d95</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Compose Email">b07e59fe7743501033809b306910610c</macroponent>
+        <macroponent_config>{
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Draft Email Page</name>
+        <order>100</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition>table=sys_email_draft</screen_condition>
+        <screen_type display_value="Record">01c9460ef62e051058e55b37678ea696</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2022-03-31 17:29:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>81c9460e372e0510ec8563aeb85cd699</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Draft Email Page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Employee Recognition" source="x_snc_jab_test_e_0">88a6db7987aac110e80b40c5cebb35b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Recognition">88a6db7987aac110e80b40c5cebb35b3</sys_scope>
+        <sys_update_name>sys_ux_screen_81c9460e372e0510ec8563aeb85cd699</sys_update_name>
+        <sys_updated_by>james.belote</sys_updated_by>
+        <sys_updated_on>2022-03-31 17:29:48</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=81c9460e372e0510ec8563aeb85cd699"/>
+</record_update>

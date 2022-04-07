@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Give a Compliment">785e1ace87ae0510e80b40c5cebb35e2</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2022-03-31 18:59:37</sys_created_on>
+        <sys_id>345e1ace87ae0510e80b40c5cebb35e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Give a Compliment.SNC External</sys_name>
+        <sys_package display_value="Employee Recognition" source="x_snc_jab_test_e_0">88a6db7987aac110e80b40c5cebb35b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Recognition">88a6db7987aac110e80b40c5cebb35b3</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_345e1ace87ae0510e80b40c5cebb35e8</sys_update_name>
+        <sys_updated_by>james.belote</sys_updated_by>
+        <sys_updated_on>2022-03-31 18:59:37</sys_updated_on>
+        <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+</record_update>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">d831255b872230105ed8ecad0ebb3540</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2022-03-31 17:16:23</sys_created_on>
+        <sys_id>34b68e86872e0510e80b40c5cebb357d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Employee Recognition" source="x_snc_jab_test_e_0">88a6db7987aac110e80b40c5cebb35b3</sys_package>
+        <sys_updated_by>james.belote</sys_updated_by>
+        <sys_updated_on>2022-03-31 17:16:23</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

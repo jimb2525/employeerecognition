@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>09c9460e6c2e0510424c8a3cead66d95</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <path>jab-test-employee-recognition-workspace</path>
+        <root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2022-03-31 17:29:48</sys_created_on>
+        <sys_id>01c9460ee42e05106376ffe496eef998</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>JAB Test Employee Recognition Workspace</sys_name>
+        <sys_package display_value="Employee Recognition" source="x_snc_jab_test_e_0">88a6db7987aac110e80b40c5cebb35b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Recognition">88a6db7987aac110e80b40c5cebb35b3</sys_scope>
+        <sys_update_name>sys_ux_page_registry_01c9460ee42e05106376ffe496eef998</sys_update_name>
+        <sys_updated_by>james.belote</sys_updated_by>
+        <sys_updated_on>2022-03-31 17:29:48</sys_updated_on>
+        <title>JAB Test Employee Recognition Workspace</title>
+    </sys_ux_page_registry>
+</record_update>

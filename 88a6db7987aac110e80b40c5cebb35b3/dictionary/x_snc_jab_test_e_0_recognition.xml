@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Recognition" max_length="40" name="x_snc_jab_test_e_0_recognition" sizeclass="3" type="collection">
+        <element label="Award Amount" max_length="20" name="award_amount" type="currency"/>
+        <element choice="1" label="Award Type" max_length="40" name="award_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Monetary" sequence="10" value="monetary"/>
+                <element inactive_on_update="false" label="Certificate" sequence="20" value="certificate"/>
+            </choice>
+        </element>
+        <element choice="1" default="internal" label="Channel" max_length="40" name="channel" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Internal" sequence="10" value="internal"/>
+                <element inactive_on_update="false" label="Support Case" sequence="20" value="support_case"/>
+                <element inactive_on_update="false" label="Phone" sequence="30" value="phone"/>
+                <element inactive_on_update="false" label="Email" sequence="40" value="email"/>
+            </choice>
+        </element>
+        <element choice="1" label="Reason" max_length="40" name="reason" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Attention to detail" sequence="10" value="attention_to_detail"/>
+                <element inactive_on_update="false" label="Teamwork" sequence="20" value="teamwork"/>
+                <element inactive_on_update="false" label="On Time" sequence="30" value="on_time"/>
+            </choice>
+        </element>
+        <element label="Recipient" max_length="32" name="recipient" reference="sys_user" type="reference"/>
+    </element>
+</database>
